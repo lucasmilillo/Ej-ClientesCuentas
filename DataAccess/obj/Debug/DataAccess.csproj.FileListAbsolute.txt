@@ -1,0 +1,11 @@
+C:\Users\lucas\source\repos\Ej ClientesCuentas\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\lucas\source\repos\Ej ClientesCuentas\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\lucas\source\repos\Ej ClientesCuentas\DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lucas\source\repos\Ej ClientesCuentas\DataAccess\bin\Debug\Repositories.dll
+C:\Users\lucas\source\repos\Ej ClientesCuentas\DataAccess\bin\Debug\Repositories.pdb
+C:\Users\lucas\source\repos\Ej ClientesCuentas\DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lucas\source\repos\Ej ClientesCuentas\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\Ej ClientesCuentas\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Ej ClientesCuentas\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\lucas\source\repos\Ej ClientesCuentas\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\lucas\source\repos\Ej ClientesCuentas\DataAccess\obj\Debug\DataAccess.pdb

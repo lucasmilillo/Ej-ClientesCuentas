@@ -1,0 +1,21 @@
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Ej ClientesCuentas\bin\Debug\Ej ClientesCuentas.exe.config
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Ej ClientesCuentas\bin\Debug\Ej ClientesCuentas.exe
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Ej ClientesCuentas\bin\Debug\Ej ClientesCuentas.pdb
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Ej ClientesCuentas\obj\Debug\Ej ClientesCuentas.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Ej ClientesCuentas\obj\Debug\Ej_ClientesCuentas.ClienteForm.resources
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Ej ClientesCuentas\obj\Debug\Ej_ClientesCuentas.HomeForm.resources
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Ej ClientesCuentas\obj\Debug\Ej_ClientesCuentas.Properties.Resources.resources
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Ej ClientesCuentas\obj\Debug\Ej ClientesCuentas.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Ej ClientesCuentas\obj\Debug\Ej ClientesCuentas.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Ej ClientesCuentas\obj\Debug\Ej ClientesCuentas.exe
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Ej ClientesCuentas\obj\Debug\Ej ClientesCuentas.pdb
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Ej ClientesCuentas\bin\Debug\Domain.dll
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Ej ClientesCuentas\bin\Debug\Repositories.dll
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Ej ClientesCuentas\bin\Debug\DataAccess.dll
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Ej ClientesCuentas\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Ej ClientesCuentas\bin\Debug\Domain.pdb
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Ej ClientesCuentas\bin\Debug\Repositories.pdb
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Ej ClientesCuentas\bin\Debug\DataAccess.pdb
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Ej ClientesCuentas\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Ej ClientesCuentas\obj\Debug\Ej ClientesCuentas.csproj.CopyComplete
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Ej ClientesCuentas\obj\Debug\Ej_ClientesCuentas.Cuentas.resources

@@ -1,0 +1,13 @@
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Domain\bin\Debug\Domain.dll
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Domain\bin\Debug\Domain.pdb
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Domain\bin\Debug\DataAccess.dll
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Domain\bin\Debug\Repositories.dll
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Domain\bin\Debug\DataAccess.pdb
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Domain\bin\Debug\Repositories.pdb
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Domain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Domain\obj\Debug\Domain.dll
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Domain\obj\Debug\Domain.pdb

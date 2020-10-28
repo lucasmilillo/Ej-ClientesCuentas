@@ -1,0 +1,6 @@
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Repositories\bin\Debug\Repositories.dll
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Repositories\bin\Debug\Repositories.pdb
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Repositories\obj\Debug\Repositories.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Repositories\obj\Debug\Repositories.dll
+C:\Users\lucas\source\repos\Ej ClientesCuentas\Repositories\obj\Debug\Repositories.pdb
